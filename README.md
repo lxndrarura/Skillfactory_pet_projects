@@ -6,9 +6,9 @@
 ## Список проектов 
 
 ### Лучшие проекты: 
-[8. Построение рекомендательной системы курсов и анализ ее эффективности с помощью A/B тестирования для обучающей онлайн платформы SkillFactory](https://nbviewer.jupyter.org/github/lxndrarura/Skillfactory_pet_projects/blob/main/8.%20final_project_A_B_test_recommendation_system.ipynb)
-[3. Исследование взаимодействия различных сегментов пользователей с мобильной игрой](https://nbviewer.jupyter.org/github/lxndrarura/Skillfactory_pet_projects/blob/main/3.%20Анализ%20по%20сегментам.ipynb)
-[4. Исследование поведения пользователей мобильной игры и анализ функциональностей](https://nbviewer.jupyter.org/github/lxndrarura/Skillfactory_pet_projects/blob/main/4.%20Исследование%20поведения%20пользователеймобильной%20игры%20и%20анализ%20функциональностей1.ipynb)
+- [8. Построение рекомендательной системы курсов и анализ ее эффективности с помощью A/B тестирования для обучающей онлайн платформы SkillFactory](https://nbviewer.jupyter.org/github/lxndrarura/Skillfactory_pet_projects/blob/main/8.%20final_project_A_B_test_recommendation_system.ipynb)
+- [3. Исследование взаимодействия различных сегментов пользователей с мобильной игрой](https://nbviewer.jupyter.org/github/lxndrarura/Skillfactory_pet_projects/blob/main/3.%20Анализ%20по%20сегментам.ipynb)
+- [4. Исследование поведения пользователей мобильной игры и анализ функциональностей](https://nbviewer.jupyter.org/github/lxndrarura/Skillfactory_pet_projects/blob/main/4.%20Исследование%20поведения%20пользователеймобильной%20игры%20и%20анализ%20функциональностей1.ipynb)
 
 Проект | Описание |<div style="width:50px">Инструменты</div> |
 :--- |:---|:-----
